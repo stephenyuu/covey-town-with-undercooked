@@ -1,5 +1,3 @@
-# Live at: https://spring24-project-team-111.onrender.com
-
 # Covey.Town
 
 Covey.Town provides a virtual meeting space where different groups of people can have simultaneous video calls, allowing participants to drift between different conversations, just like in real life.
