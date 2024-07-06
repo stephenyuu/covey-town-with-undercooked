@@ -1,3 +1,5 @@
+<img width="615" alt="Screen Shot 2024-07-06 at 6 19 01 PM" src="https://github.com/stephenyuu/covey-town-with-undercooked/assets/100880386/52f19459-1cde-4b80-90a7-518721bba192">
+
 # Covey.Town
 
 Covey.Town provides a virtual meeting space where different groups of people can have simultaneous video calls, allowing participants to drift between different conversations, just like in real life.
@@ -48,5 +50,3 @@ automatically connect to the town with the friendly name "DEBUG_TOWN" (creating 
 
 In the `frontend` directory, run `npm start` (again, you'll need to run `npm install` the very first time). After several moments (or minutes, depending on the speed of your machine), a browser will open with the frontend running locally.
 The frontend will automatically re-compile and reload in your browser if you change any files in the `frontend/src` directory.
-
-<img width="615" alt="Screen Shot 2024-07-06 at 6 19 01 PM" src="https://github.com/stephenyuu/covey-town-with-undercooked/assets/100880386/52f19459-1cde-4b80-90a7-518721bba192">
